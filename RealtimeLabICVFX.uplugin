@@ -23,6 +23,22 @@
 	],
 	"Plugins": [
 		{
+			"Name": "nDisplay",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkHub",
+			"Enabled": true
+		},
+		{
 			"Name": "MoSysVPFree",
 			"Enabled": true
 		},
@@ -31,5 +47,4 @@
 			"Enabled": true
 		}
 	]
-
 }
